@@ -186,7 +186,7 @@ msgstr ", modificado el %4$s"
 #, php-format
 msgctxt "post date"
 msgid "Posted on %s"
-msgstr "Publicando en %s"
+msgstr "Publicado el %s"
 
 #: ../inc/template-tags.php:34
 #, php-format
@@ -202,7 +202,7 @@ msgstr ","
 #: ../inc/template-tags.php:53
 #, php-format
 msgid "Posted in %1$s"
-msgstr "Publicado el %1$s"
+msgstr "Publicado en %1$s"
 
 #: ../inc/template-tags.php:59
 #, php-format
