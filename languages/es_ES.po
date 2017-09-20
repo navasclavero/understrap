@@ -1,3 +1,4 @@
+
 # Loco Gettext template
 msgid ""
 msgstr ""
@@ -116,8 +117,8 @@ msgid ""
 "It looks like nothing was found at this location. Maybe try one of the links "
 "below or a search?"
 msgstr ""
-"No se pudo encontrar nada en esta dirección. Prueba en uno de los enlaces debajo "
-"o una búsqueda ?"
+"No se pudo encontrar nada en esta dirección. Prueba en uno de los enlaces "
+"debajo o una búsqueda ?"
 
 #: ../404.php:37
 msgid "Most Used Categories"
@@ -186,7 +187,7 @@ msgstr ", modificado el %4$s"
 #, php-format
 msgctxt "post date"
 msgid "Posted on %s"
-msgstr "Publicando en %s"
+msgstr "Publicado el %s"
 
 #: ../inc/template-tags.php:34
 #, php-format
@@ -202,7 +203,7 @@ msgstr ","
 #: ../inc/template-tags.php:53
 #, php-format
 msgid "Posted in %1$s"
-msgstr "Publicado el %1$s"
+msgstr "Publicado en %1$s"
 
 #: ../inc/template-tags.php:59
 #, php-format
@@ -247,10 +248,10 @@ msgstr "Email"
 #: ../inc/custom-comments.php:25
 msgctxt "noun"
 msgid "Comment"
-msgstr "Commentario"
+msgstr "Comentario"
 
-#: ../loop-templates/content-single.php:29 ../loop-templates/content.php:33 ..
-#: /loop-templates/content-page.php:25
+#: ../loop-templates/content-single.php:29 ../loop-templates/content.php:33 .. 
+#: loop-templates/content-page.php:25
 msgid "Pages:"
 msgstr "Páginas: "
 
@@ -260,7 +261,8 @@ msgstr "No se ha encontrado nada"
 
 #: ../loop-templates/content-none.php:24
 #, php-format
-msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
 msgstr ""
 "¿Preparado para publicar tu primer post? <a href=\"%1$s\">Comenzar aquí</a>."
 
@@ -269,14 +271,14 @@ msgid ""
 "Sorry, but nothing matched your search terms. Please try again with some "
 "different keywords."
 msgstr ""
-"Lo siento, pero no hemos encontrado nada con las palabras utilizadas. Prueba de "
-"nuevo con otras palabras."
+"Lo siento, pero no hemos encontrado nada con las palabras utilizadas. Prueba "
+"de nuevo con otras palabras."
 
 #: ../loop-templates/content-none.php:33
 msgid ""
-"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching "
-"can help."
-msgstr "Al parecer no he mos podido encontrar lo que estaba buscando."
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Al parecer no hemos podido encontrar lo que estaba buscando."
 
 #: ../loop-templates/content-page.php:34
 msgid "Edit"
@@ -292,13 +294,13 @@ msgstr "http://understrap.com"
 
 #. Description of the theme
 msgid ""
-"Combination of Automattic´s _s theme and Bootstrap 4. Made as a solid starting "
-"point for your next theme project and WordPress website. Use it as starter theme "
-"or as parent theme. It is up to you."
+"Combination of Automattic´s _s theme and Bootstrap 4. Made as a solid "
+"starting point for your next theme project and WordPress website. Use it as "
+"starter theme or as parent theme. It is up to you."
 msgstr ""
-"Una combinacion de tema _s  (Automattic) y de Bootstrap 4. Realizado solidamente "
-"Punto de partida para tus proyectos hechos en Wordpress. Utilizar Empezar como "
-"padre tema de tus temas, es tu decisión."
+"Una combinacion de tema _s  (Automattic) y de Bootstrap 4. Realizado "
+"solidamente Punto de partida para tus proyectos hechos en Wordpress. "
+"Utilizar Empezar como padre tema de tus temas, es tu decisión."
 
 #. Author of the theme
 msgid "Holger Koenemann"
