@@ -1,26 +1,25 @@
-# Loco Gettext template
 msgid ""
 msgstr ""
 "Project-Id-Version: understrap\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/support/theme/_s\n"
 "POT-Creation-Date: 2016-11-18 14:37+0100\n"
 "POT-Revision-Date: Mon Jul 04 2016 09:13:18 GMT+0200 (CEST)\n"
-"PO-Revision-Date: 2016-12-12 10:04+0000\n"
-"Language-Team: \n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"PO-Revision-Date: 2017-09-20 08:18+0000\n"
+"Language-Team: Spanish (Spain)\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Generator: Poedit 1.8.11\n"
-"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;__:1;"
-"_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;_x:1,2c;"
-"_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;"
-"esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;esc_html_x:1,2c;"
-"comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
 "X-Poedit-Basepath: ..\n"
-"Last-Translator: \n"
-"Language: es\n"
+"Last-Translator: admin <sistemas@asycom.es>\n"
+"Language: es-ES\n"
 "X-Poedit-SearchPath-0: footer.php\n"
 "X-Poedit-SearchPath-1: header.php\n"
 "X-Poedit-SearchPath-2: index.php\n"
@@ -42,7 +41,7 @@ msgstr ""
 "X-Poedit-SearchPath-18: page.php\n"
 "X-Poedit-SearchPath-19: functions.php\n"
 "X-Poedit-SearchPath-20: page-templates\n"
-"X-Poedit-SearchPath-21: inc\n"
+"X-Poedit-SearchPath-21: inc"
 
 #: ../comments.php:28
 #, php-format
@@ -116,8 +115,8 @@ msgid ""
 "It looks like nothing was found at this location. Maybe try one of the links "
 "below or a search?"
 msgstr ""
-"No se pudo encontrar nada en esta dirección. Prueba en uno de los enlaces debajo "
-"o una búsqueda ?"
+"No se pudo encontrar nada en esta dirección. Prueba en uno de los enlaces "
+"debajo o una búsqueda ?"
 
 #: ../404.php:37
 msgid "Most Used Categories"
@@ -186,7 +185,7 @@ msgstr ", modificado el %4$s"
 #, php-format
 msgctxt "post date"
 msgid "Posted on %s"
-msgstr "Publicando en %s"
+msgstr "Publicado el %s"
 
 #: ../inc/template-tags.php:34
 #, php-format
@@ -202,7 +201,7 @@ msgstr ","
 #: ../inc/template-tags.php:53
 #, php-format
 msgid "Posted in %1$s"
-msgstr "Publicado el %1$s"
+msgstr "Publicado en %1$s"
 
 #: ../inc/template-tags.php:59
 #, php-format
@@ -247,10 +246,10 @@ msgstr "Email"
 #: ../inc/custom-comments.php:25
 msgctxt "noun"
 msgid "Comment"
-msgstr "Commentario"
+msgstr "Comentario"
 
-#: ../loop-templates/content-single.php:29 ../loop-templates/content.php:33 ..
-#: /loop-templates/content-page.php:25
+#: ../loop-templates/content-single.php:29 ../loop-templates/content.php:33 .. 
+#: loop-templates/content-page.php:25
 msgid "Pages:"
 msgstr "Páginas: "
 
@@ -260,7 +259,8 @@ msgstr "No se ha encontrado nada"
 
 #: ../loop-templates/content-none.php:24
 #, php-format
-msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
 msgstr ""
 "¿Preparado para publicar tu primer post? <a href=\"%1$s\">Comenzar aquí</a>."
 
@@ -269,14 +269,14 @@ msgid ""
 "Sorry, but nothing matched your search terms. Please try again with some "
 "different keywords."
 msgstr ""
-"Lo siento, pero no hemos encontrado nada con las palabras utilizadas. Prueba de "
-"nuevo con otras palabras."
+"Lo siento, pero no hemos encontrado nada con las palabras utilizadas. Prueba "
+"de nuevo con otras palabras."
 
 #: ../loop-templates/content-none.php:33
 msgid ""
-"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching "
-"can help."
-msgstr "Al parecer no he mos podido encontrar lo que estaba buscando."
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Al parecer no hemos podido encontrar lo que estaba buscando."
 
 #: ../loop-templates/content-page.php:34
 msgid "Edit"
@@ -292,13 +292,13 @@ msgstr "http://understrap.com"
 
 #. Description of the theme
 msgid ""
-"Combination of Automattic´s _s theme and Bootstrap 4. Made as a solid starting "
-"point for your next theme project and WordPress website. Use it as starter theme "
-"or as parent theme. It is up to you."
+"Combination of Automattic´s _s theme and Bootstrap 4. Made as a solid "
+"starting point for your next theme project and WordPress website. Use it as "
+"starter theme or as parent theme. It is up to you."
 msgstr ""
-"Una combinacion de tema _s  (Automattic) y de Bootstrap 4. Realizado solidamente "
-"Punto de partida para tus proyectos hechos en Wordpress. Utilizar Empezar como "
-"padre tema de tus temas, es tu decisión."
+"Una combinacion de tema _s  (Automattic) y de Bootstrap 4. Realizado "
+"solidamente Punto de partida para tus proyectos hechos en Wordpress. "
+"Utilizar Empezar como padre tema de tus temas, es tu decisión."
 
 #. Author of the theme
 msgid "Holger Koenemann"
